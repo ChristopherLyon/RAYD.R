@@ -4,7 +4,7 @@ export default {
   titleSuffix: ' – RAYDAR',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">RAYDAR</span>
+      <span className="mr-2 font-extrabold hidden md:inline">RAYD-R Engine</span>
       <span className="text-gray-600 font-normal hidden md:inline">
         The Meteorological Infrastructure Database
       </span>

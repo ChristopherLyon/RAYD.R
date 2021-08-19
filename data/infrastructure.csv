@@ -1,0 +1,12 @@
+Name,Installed,Cost,Altitude (m),Coverage,Hardware,latitude,longitude,range (m),frequency,pulse repetition frequency,pulsewidth,peak power,Country,Status,Region
+Andøya,2005-2007,15 mNOK,433,"[Nordland,Troms]",SELEX Gematronik Meteor 500C,69.241389,16.002972,500000,5.620 Ghz,200 - 1200 Hz,"0,5 - 2 µs",250 kW,Norway,Active,North-Norway
+Asker,1992,Unknown,459,Sentral East Norway,Ericsson,59.855472,10.378722,500000,"5.620 Ghz ",,,,Norway,Inactive,East-Norway
+Berlevåg,2011-2012,25 mNOK,474,"""""",SELEX Gematronik Meteor 500C,,,500000,"5.640 Ghz ",200 - 1200 Hz,"0,5 - 2 µs",250 kW,Norway,Active,
+Bømlo,2002,12 mNOK,104,"[Bergen,Haugesund,Stavanger]",SELEX Gematronik Meteor 500C,59.853755382941515,5.089496472163074,500000,5.640 Ghz,200 - 1200 Hz,"0,5 - 2 µs"," 250 kW",Norway,Active,West-Norway
+Hasvik,2007-2008,20 mNOK,444,"[Nord-Troms,Vest-Finnmarkr]",SELEX Gematronik Meteor 500C,70.605194,22.442972,500000,5.640 Ghz,200 - 1200 Hz,"0,5 - 2 µs",250 kW,Norway,Active,North-Norway
+Hurum,2010,,363,Sentral East Norway,SELEX Gematronik Meteor 500C,59.62719799503852,10.56457703240269,500000,5.640 Ghz,,,,Norway,Active,East-Norway
+Hægebostad,1999-2000,12 mNOK,631,"""""",SELEX Gematronik Meteor 500C,58.36022548022992,7.164756739560368,500000,5.640 Ghz,,,,Norway,Active,
+Rissa,2001-2002,13 mNOK,611,Sør-Trøndelag,SELEX Gematronik Meteor 500C,63.69047453185845,10.203679176335553,500000,,,,,Norway,Active,Central-Norway
+Røst,2003-2004,12 mNOK,17,"""""",SELEX Gematronik Meteor 500C,67.53050218801802,12.09926344668922,500000,,,,,Norway,Active,
+Stad,,,,"""""",SELEX Gematronik Meteor 500C,62.18699913600289,5.127518006070481,500000,,,,,Norway,Active,
+Sømma,2014,25 mNOK,,"""""",SELEX Gematronik Meteor 735CDP10,,,500000,,,,,Norway,Active,

@@ -21,17 +21,21 @@
 
     
 
-## Development
+## Crowd Sourced Development
 
-The code of the **RAYD-R Engine** is under the [`core`](https://github.com/shuding/nextra/tree/core) branch.
+The code of the **RAYD.R Engine** is under the [`core`](https://github.com/shuding/nextra/tree/core) branch.
+
+To contribute to this repository you will need to fork the `main`  repository and make changes to the MDX files under /pages, or to the CSV/JSON data files.
+
+When you are happy with the changes, you can submit a request to merge your branch with the `main` repository. The backend will automatically detect the file changes, and re-compile and redeploy the documentation.
+
+
+## Data Visualization
+
+The data files will be pulled down and represented using [kepler.gl]("https://github.com/keplergl/kepler.gl"), a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets. Built on top of Mapbox GL and deck.gl, kepler.gl can render millions of points representing thousands of data points and perform spatial aggregations on the fly.
+
 
 ![](/public/demo.png)
 
-## Themes
-
-- [nextra-theme-docs](https://github.com/vercel/swr-site) ([demo](https://swr.vercel.app))
-- [nextra-theme-blog](https://github.com/shuding/site) ([demo](https://shud.in))
-
 ---
-
-Created and Maintained by Lyon Industries
+:wrench: Created and maintained by Lyon Industries

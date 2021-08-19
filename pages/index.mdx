@@ -2,11 +2,22 @@ import Bleed from 'nextra-theme-docs/bleed'
 
 # RAYD.R Engine
 
-The **RAYD-R Engine** is an Open Source repository for pysical and virtual meteorological infrastructure. 
+The **RAYD.R Engine** is an Open Source repository for pysical and virtual meteorological infrastructure. 
 Through collaboration with people, universities and orginizations, we plan on building and maintaining a core global resource designed for the future.
 
-It supports Markdown and React components ([MDX](/mdx)), automatically generated [sidebar and anchor links](/docs/anchors), file-system based routing, built-in syntax highlighting, image optimization, custom layouts, i18n, and all the features you love about Next.js.
+It supports Markdown and React components ([MDX](/mdx)), automatically generated [sidebar and anchor links](/docs/anchors), file-system based routing, built-in syntax highlighting, image optimization, custom layouts, i18n, and all the features built into Next.js.
 
-This is what the data models could llok like:
+
+## Crowd Sourced Development
+
+The code of the **RAYD.R Engine** is under the [`core`](https://github.com/shuding/nextra/tree/core) branch.
+
+To contribute to this repository you will need to fork the `main`  repository and make changes to the MDX files under /pages, or to the CSV/JSON data files.
+
+When you are happy with the changes, you can submit a request to merge your branch with the `main` repository. The backend will automatically detect the file changes, and re-compile and redeploy the documentation.
+
+## Data Visualization
+
+The data files will be pulled down and represented using [kepler.gl]("https://github.com/keplergl/kepler.gl"), a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets. Built on top of Mapbox GL and deck.gl, kepler.gl can render millions of points representing thousands of data points and perform spatial aggregations on the fly.
 
 <Bleed>![Nextra Example](../public/demo.png)</Bleed>

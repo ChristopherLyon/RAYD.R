@@ -4,13 +4,14 @@
   </a>
 </p>
 
+<p align="center"> 
+  <b>RAYD.R</b> is a 
+  <a href="https://nextjs.org">Next.js</a> and 
+  <a href="https://mdxjs.com">MDX </a> 
+  powered, global repository for meteorological infrastructure.
+</p>
+
 <p align="center">
-
-**RAYD-R** is a [Next.js](https://nextjs.org) and [MDX](https://mdxjs.com) powered, global repository for meteorological infrastructure.
-
-
-<p align="center">
-
   <a href="https://github.com/lyon-industries/RAYD.R/blob/main/LICENSE"><img src="https://img.shields.io/github/license/lyon-industries/RAYD.R"></a>
   <a href="https://github.com/lyon-industries/RAYD.R/releases"><img src="https://img.shields.io/badge/version-1.0.0-blue"></a>
 

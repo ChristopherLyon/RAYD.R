@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/lyon-industries/RAYD.R/blob/main/LICENSE"><img src="https://img.shields.io/github/license/lyon-industries/RAYD.R"></a>
-  <a href="https://github.com/lyon-industries/RAYD.R/releases"><img src="https://img.shields.io/badge/version-1.0.0-blue"></a>
+  <a href="https://github.com/lyon-industries/RAYD.R/releases"><img src="https://img.shields.io/badge/version-2.0.1-blue"></a>
 
 </p>
 

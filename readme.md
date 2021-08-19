@@ -1,16 +1,16 @@
-# [Nextra](https://nextra.vercel.app)
+# [RAYD-R Engine](rayd-r.no)
 
-_Warning: this project is not production ready, API might change without notice._
+> :warning: **This repository is under construction!**
 
-[![](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra&c=1)
+---
 
-**Nextra** is a [Next.js](https://nextjs.org) and [MDX](https://mdxjs.com) powered, no-code site generator.
+**RAYD-R** is a [Next.js](https://nextjs.org) and [MDX](https://mdxjs.com) powered, global repository for meteorological infrastructure.
 
 ![](/public/demo.png)
 
 ## Development
 
-The code of Nextra is under the [`core`](https://github.com/shuding/nextra/tree/core) branch.
+The code of the **RAYD-R Engine** is under the [`core`](https://github.com/shuding/nextra/tree/core) branch.
 
 ## Themes
 

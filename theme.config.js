@@ -1,7 +1,7 @@
 export default {
   github: 'https://github.com/ChristopherLyon/meteorological-infrastructure-docs',
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: ' – RAYDAR',
+  titleSuffix: ' – RAYD.R',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">RAYD.R</span>

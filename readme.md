@@ -1,16 +1,30 @@
-# [RAYD-R Engine](rayd-r.no)
+<p align="center">
+  <a href="https://alibaba.github.io/rax">
+    <img alt="RAYD.R" src="https://raw.githubusercontent.com/lyon-industries/RAYD.R/1.0.0/public/android-icon-192x192.png" width="66">
+  </a>
+</p>
 
-> :warning: **This repository is under construction!**
-
----
+<p align="center">
 
 **RAYD-R** is a [Next.js](https://nextjs.org) and [MDX](https://mdxjs.com) powered, global repository for meteorological infrastructure.
 
-![](/public/demo.png)
+
+<p align="center">
+
+  <a href="https://github.com/lyon-industries/RAYD.R/blob/main/LICENSE"><img src="https://img.shields.io/github/license/lyon-industries/RAYD.R"></a>
+  <a href="https://github.com/lyon-industries/RAYD.R/releases"><img src="https://img.shields.io/badge/version-1.0.0-blue"></a>
+
+</p>
+
+---
+
+    
 
 ## Development
 
 The code of the **RAYD-R Engine** is under the [`core`](https://github.com/shuding/nextra/tree/core) branch.
+
+![](/public/demo.png)
 
 ## Themes
 
@@ -19,4 +33,4 @@ The code of the **RAYD-R Engine** is under the [`core`](https://github.com/shudi
 
 ---
 
-Created by [@shuding](https://github.com/shuding) and [@pacocoursey](https://github.com/pacocoursey) at [Vercel](https://vercel.com). Released under the MIT license.
+Created and Maintained by Lyon Industries

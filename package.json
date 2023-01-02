@@ -11,9 +11,9 @@
   "author": "Lyon Industries",
   "license": "MIT",
   "dependencies": {
-    "next": "^11.1.0",
+    "next": "^13.1.1",
     "nextra": "^1.1.0",
-    "nextra-theme-docs": "^1.2.2",
+    "nextra-theme-docs": "^2.0.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
